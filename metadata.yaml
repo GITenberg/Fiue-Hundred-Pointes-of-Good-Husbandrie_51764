@@ -1,0 +1,38 @@
+_repo: Fiue-Hundred-Pointes-of-Good-Husbandrie_51764
+_version: 0.0.1
+alternative_title:
+- 500 points of good husbandry
+- Five hundred points of good husbandry
+creator:
+  author:
+    agent_name: Tusser, Thomas
+    deathdate: 1580
+    gutenberg_agent_id: '46547'
+    url: http://www.gutenberg.org/2009/agents/46547
+  editors:
+  - agent_name: Payne, William H.
+    gutenberg_agent_id: '46548'
+    url: http://www.gutenberg.org/2009/agents/46548
+  - agent_name: Herrtage, Sidney J. H. (Sidney John Hervon)
+    alias: Herrtage, Sidney John Hervon
+    gutenberg_agent_id: '46549'
+    url: http://www.gutenberg.org/2009/agents/46549
+description: ''
+gutenberg_issued: '2016-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51764'
+  lccn: '34012077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Provincialisms -- Early works to 1800'
+- !lcsh 'Home economics'
+- !lcsh 'English language -- Terms and phrases -- Early works to 1800'
+- !lcc 'PE'
+- !lcsh 'Agriculture -- Early works to 1800'
+- GITenberg
+title: Fiue Hundred Pointes of Good Husbandrie
+url: http://www.gutenberg.org/ebooks/51764
